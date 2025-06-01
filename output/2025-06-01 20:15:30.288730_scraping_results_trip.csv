@@ -1,0 +1,91 @@
+airline_name,departure_time,arrival_time,departure_terminal,arrival_terminal,Way_Of_Travel,Time in Hours,number_days_added,Trip_Type,free_checked_baggage,limited_tickets_remaining?,Price,number_of_airlines
+Singapore Airlines,2025-06-25 23:30:00,2025-06-26 06:30:00,SIN T3,MXP T1,Direct,13h,+1,Return,Checked baggage 25 kg,,$1598,Singular Airline
+"China Eastern Airlines ,China Eastern Airlines      Transfer in Shanghai 7h",2025-06-25 00:55:00,2025-06-25 19:35:00,SIN T3,MXP T1,7h in Shanghai,24h 40m,,Return,Checked baggage 23 kg,,$917,Multiple Airlines
+"China Eastern Airlines ,China Eastern Airlines      Transfer in Xi'an 17h 50m",2025-06-25 14:20:00,2025-06-26 20:00:00,SIN T3,MXP T1,17h 50m in Xi'an,35h 40m,+1,Return,Checked baggage 23 kg,,$917,Multiple Airlines
+"Air China ,Air China      Transfer in Shanghai 2h 15m",2025-06-25 17:30:00,2025-06-26 08:05:00,SIN T1,MXP T1,2h 15m in Shanghai,20h 35m,+1,Return,Checked baggage 2 x 23 kg,,$921,Multiple Airlines
+"China Eastern Airlines ,China Eastern Airlines      Transfer in Shanghai 8h 40m",2025-06-25 23:10:00,2025-06-26 19:35:00,SIN T3,MXP T1,8h 40m in Shanghai,26h 25m,+1,Return,Checked baggage 23 kg,,$946,Multiple Airlines
+"China Eastern Airlines ,China Eastern Airlines      Transfer in Shanghai 13h",2025-06-25 18:10:00,2025-06-26 19:35:00,SIN T3,MXP T1,13h in Shanghai,31h 25m,+1,Return,Checked baggage 23 kg,,$946,Multiple Airlines
+"China Eastern Airlines ,China Eastern Airlines      Transfer in Shanghai 15h 15m",2025-06-25 16:35:00,2025-06-26 19:35:00,SIN T3,MXP T1,15h 15m in Shanghai,33h,+1,Return,Checked baggage 23 kg,,$946,Multiple Airlines
+"China Eastern Airlines ,China Eastern Airlines      Transfer in Shanghai 21h 45m",2025-06-25 10:10:00,2025-06-26 19:35:00,SIN T3,MXP T1,21h 45m in Shanghai,39h 25m,+1,Return,Checked baggage 23 kg,,$946,Multiple Airlines
+"Air China ,Air China      Transfer in Beijing 10h 15m",2025-06-25 09:00:00,2025-06-26 06:30:00,SIN T1,MXP T1,10h 15m in Beijing,27h 30m,+1,Return,Checked baggage 2 x 23 kg,,$951,Multiple Airlines
+"Etihad Airways ,Etihad Airways      Transfer in Abu Dhabi 13h 35m",2025-06-25 21:10:00,2025-06-26 18:40:00,SIN T2,MXP T1,13h 35m in Abu Dhabi,27h 30m,+1,Return,,,$1022,Multiple Airlines
+"Etihad Airways ,Etihad Airways      Transfer in Abu Dhabi 1h 40m",2025-06-25 21:10:00,2025-06-26 06:45:00,SIN T2,MXP T1,1h 40m in Abu Dhabi,15h 35m,+1,Return,,,$1082,Multiple Airlines
+"Emirates ,Emirates      Transfer in Dubai 5h 20m",2025-06-25 00:50:00,2025-06-25 14:10:00,SIN T1,MXP T1,5h 20m in Dubai,19h 20m,,Return,Checked baggage 25 kg,,$1104,Multiple Airlines
+"Emirates ,Emirates      Transfer in Dubai 9h 15m",2025-06-25 21:00:00,2025-06-26 14:10:00,SIN T1,MXP T1,9h 15m in Dubai,23h 10m,+1,Return,Checked baggage 25 kg,,$1104,Multiple Airlines
+"Emirates ,Emirates      Transfer in Dubai 10h 40m",2025-06-25 01:40:00,2025-06-25 20:20:00,SIN T1,MXP T1,10h 40m in Dubai,24h 40m,,Return,Checked baggage 25 kg,,$1104,Multiple Airlines
+"Emirates ,Emirates      Transfer in Dubai 11h 20m",2025-06-25 00:50:00,2025-06-25 20:20:00,SIN T1,MXP T1,11h 20m in Dubai,25h 30m,,Return,Checked baggage 25 kg,,$1104,Multiple Airlines
+"Emirates ,Emirates      Transfer in Dubai 15h 15m",2025-06-25 21:00:00,2025-06-26 20:20:00,SIN T1,MXP T1,15h 15m in Dubai,29h 20m,+1,Return,Checked baggage 25 kg,,$1104,Multiple Airlines
+"Emirates ,Emirates      Transfer in Dubai 19h 40m",2025-06-25 10:35:00,2025-06-26 14:10:00,SIN T1,MXP T1,19h 40m in Dubai,33h 35m,+1,Return,Checked baggage 25 kg,,$1104,Multiple Airlines
+"Air India ,Air India      Transfer in New Delhi 10h 50m",2025-06-25 23:00:00,2025-06-26 19:40:00,SIN T2,MXP T1,10h 50m in New Delhi,26h 40m,+1,Return,Checked baggage 23 kg,,$1106,Multiple Airlines
+"Qatar Airways ,Qatar Airways      Transfer in Doha 13h",2025-06-25 10:30:00,2025-06-26 07:10:00,SIN T1,MXP T1,13h in Doha,26h 40m,+1,Return,Checked baggage 25 kg,,$1165,Multiple Airlines
+"Qatar Airways ,Qatar Airways      Transfer in Doha 20h 20m",2025-06-25 03:10:00,2025-06-26 07:10:00,SIN T1,MXP T1,20h 20m in Doha,34h,+1,Return,Checked baggage 25 kg,,$1165,Multiple Airlines
+"Emirates ,Emirates Operated by Flydubai     Transfer in Dubai 2h 30m",2025-06-25 01:40:00,2025-06-25 12:10:00,SIN T1,BGY,2h 30m in Dubai,16h 30m,,Return,Checked baggage 25 kg,,$1186,Multiple Airlines
+"Emirates ,Emirates Operated by Flydubai     Transfer in Dubai 3h 10m",2025-06-25 00:50:00,2025-06-25 12:10:00,SIN T1,BGY,3h 10m in Dubai,17h 20m,,Return,Checked baggage 25 kg,,$1186,Multiple Airlines
+"Emirates ,Emirates Operated by Flydubai     Transfer in Dubai 7h 5m",2025-06-25 21:00:00,2025-06-26 12:10:00,SIN T1,BGY,7h 5m in Dubai,21h 10m,+1,Return,Checked baggage 25 kg,,$1186,Multiple Airlines
+"KLM Royal Dutch Airlines ,KLM Royal Dutch Airlines      Transfer in Amsterdam 6h 20m",2025-06-25 00:40:00,2025-06-25 15:55:00,SIN T1,LIN,6h 20m in Amsterdam,21h 15m,,Return,,,$1576,Multiple Airlines
+"Lufthansa ,Lufthansa Operated by Air Dolomiti     Transfer in Munich 4h 55m",2025-06-25 23:25:00,2025-06-26 12:05:00,SIN T2,MXP T1,4h 55m in Munich,18h 40m,+1,Return,Checked baggage 23 kg,,$1623,Multiple Airlines
+"Lufthansa Operated by Singapore Airlines,Lufthansa      Transfer in Frankfurt 2h 50m",2025-06-25 10:55:00,2025-06-25 22:05:00,SIN T3,LIN,2h 50m in Frankfurt,17h 10m,,Return,Checked baggage 23 kg,,$1635,Multiple Airlines
+"Lufthansa Operated by Singapore Airlines,Lufthansa Operated by Air Dolomiti     Transfer in Frankfurt 3h 50m",2025-06-25 10:55:00,2025-06-25 23:10:00,SIN T3,MXP T1,3h 50m in Frankfurt,18h 15m,,Return,Checked baggage 23 kg,,$1635,Multiple Airlines
+"Turkish Airlines ,Turkish Airlines      Transfer in Istanbul 6h 55m",2025-06-25 23:10:00,2025-06-26 14:10:00,SIN T1,MXP T1,6h 55m in Istanbul,21h,+1,Return,Checked baggage 30 kg,,$1650,Multiple Airlines
+"Lufthansa ,Lufthansa      Transfer in Frankfurt 2h 45m",2025-06-25 23:40:00,2025-06-26 10:40:00,SIN T2,MXP T1,2h 45m in Frankfurt,17h,+1,Return,Checked baggage 23 kg,,$1653,Multiple Airlines
+"Lufthansa ,Lufthansa      Transfer in Frankfurt 4h 10m",2025-06-25 23:40:00,2025-06-26 12:00:00,SIN T2,LIN,4h 10m in Frankfurt,18h 20m,+1,Return,Checked baggage 23 kg,,$1653,Multiple Airlines
+"Oman Air Operated by Malaysia Airlines,Oman Air ,Oman Air      Transfer in Kuala Lumpur 23h 5m  Transfer in Muscat 14h 40m",2025-06-25 21:15:00,2025-06-27 19:50:00,SIN T2,MXP T1,"2 stops in Kuala Lumpur, Muscat",52h 35m,+2,Return,Checked baggage 30 kg,,$1333,Multiple Airlines
+easyJet,2025-08-03 06:00:00,2025-08-03 07:55:00,MXP T2,AMS,Direct,1h 55m,,Return,,,$269,Singular Airline
+KLM Royal Dutch Airlines,2025-08-03 19:50:00,2025-08-03 21:35:00,LIN,AMS,Direct,1h 45m,,Return,,,$360,Singular Airline
+easyJet,2025-08-03 10:35:00,2025-08-03 12:25:00,LIN,AMS,Direct,1h 50m,,Return,,,$365,Singular Airline
+easyJet,2025-08-03 18:50:00,2025-08-03 20:40:00,LIN,AMS,Direct,1h 50m,,Return,,,$368,Singular Airline
+easyJet,2025-08-03 18:40:00,2025-08-03 20:35:00,MXP T2,AMS,Direct,1h 55m,,Return,,,$373,Singular Airline
+KLM Royal Dutch Airlines,2025-08-03 11:00:00,2025-08-03 12:55:00,LIN,AMS,Direct,1h 55m,,Return,,,$411,Singular Airline
+KLM Royal Dutch Airlines Operated by Klm Cityhopper,2025-08-03 16:50:00,2025-08-03 18:40:00,LIN,AMS,Direct,1h 50m,,Return,,,$464,Singular Airline
+KLM Royal Dutch Airlines,2025-08-03 13:00:00,2025-08-03 14:50:00,LIN,AMS,Direct,1h 50m,,Return,,,$483,Singular Airline
+"Lufthansa Operated by Air Dolomiti,Lufthansa      Transfer in Frankfurt 1h 15m",2025-08-03 14:35:00,2025-08-03 18:20:00,MXP T1,AMS,1h 15m in Frankfurt,3h 45m,,Return,Checked baggage 23 kg,,$464,Multiple Airlines
+"Lufthansa Operated by Air Dolomiti,Lufthansa      Transfer in Frankfurt 5h 5m",2025-08-03 14:35:00,2025-08-03 22:10:00,MXP T1,AMS,5h 5m in Frankfurt,7h 35m,,Return,Checked baggage 23 kg,,$464,Multiple Airlines
+"Lufthansa ,Lufthansa Operated by Cityjet     Transfer in Frankfurt 5h 55m",2025-08-03 09:10:00,2025-08-03 17:35:00,MXP T1,AMS,5h 55m in Frankfurt,8h 25m,,Return,Checked baggage 23 kg,<5 left,$464,Multiple Airlines
+"Lufthansa ,Lufthansa      Transfer in Frankfurt 2h 10m",2025-08-03 09:10:00,2025-08-03 13:50:00,MXP T1,AMS,2h 10m in Frankfurt,4h 40m,,Return,Checked baggage 23 kg,,$491,Multiple Airlines
+"Lufthansa ,Lufthansa Operated by Cityjet     Transfer in Frankfurt 3h 50m",2025-08-03 11:15:00,2025-08-03 17:35:00,MXP T1,AMS,3h 50m in Frankfurt,6h 20m,,Return,Checked baggage 23 kg,,$491,Multiple Airlines
+"Lufthansa ,Lufthansa Operated by Cityjet     Transfer in Frankfurt 2h 25m",2025-08-03 12:45:00,2025-08-03 17:35:00,LIN,AMS,2h 25m in Frankfurt,4h 50m,,Return,Checked baggage 23 kg,,$497,Multiple Airlines
+"Lufthansa ,Lufthansa      Transfer in Frankfurt 3h 10m",2025-08-03 12:45:00,2025-08-03 18:20:00,LIN,AMS,3h 10m in Frankfurt,5h 35m,,Return,Checked baggage 23 kg,,$497,Multiple Airlines
+"Air France ,Air France      Transfer in Paris 50m",2025-08-03 06:50:00,2025-08-03 10:40:00,MXP T1,AMS,50m in Paris,3h 50m,,Return,,,$534,Multiple Airlines
+"Vueling Airlines ,Vueling Airlines      Transfer in Barcelona 3h 5m",2025-08-03 14:45:00,2025-08-03 22:00:00,MXP T1,AMS,3h 5m in Barcelona,7h 15m,,Return,,,$537,Multiple Airlines
+"Vueling Airlines ,Vueling Airlines      Transfer in Barcelona 1h 45m",2025-08-03 14:45:00,2025-08-03 20:40:00,MXP T1,AMS,1h 45m in Barcelona,5h 55m,,Return,,,$561,Multiple Airlines
+"ITA Airways ,ITA Airways      Transfer in Rome 4h 25m",2025-08-03 09:00:00,2025-08-03 17:05:00,LIN,AMS,4h 25m in Rome,8h 5m,,Return,,,$574,Multiple Airlines
+"Air France ,Air France      Transfer in Paris 3h 50m",2025-08-03 06:50:00,2025-08-03 13:40:00,MXP T1,AMS,3h 50m in Paris,6h 50m,,Return,,,$603,Multiple Airlines
+"Lufthansa ,Lufthansa      Transfer in Frankfurt 7h",2025-08-03 12:45:00,2025-08-03 22:10:00,LIN,AMS,7h in Frankfurt,9h 25m,,Return,Checked baggage 23 kg,,$628,Multiple Airlines
+"Lufthansa Operated by Air Dolomiti,Lufthansa Operated by Airbaltic     Transfer in Munich 9h 45m",2025-08-03 19:35:00,2025-08-04 08:05:00,MXP T1,AMS,9h 45m in Munich,12h 30m,+1,Return,Checked baggage 23 kg,,$653,Multiple Airlines
+"Austrian Airlines ,Austrian Airlines Operated by Airbaltic     Transfer in Vienna 1h 10m",2025-08-03 14:45:00,2025-08-03 19:15:00,MXP T1,AMS,1h 10m in Vienna,4h 30m,,Return,Checked baggage 23 kg,,$654,Multiple Airlines
+"Lufthansa Operated by Air Dolomiti,Lufthansa Operated by Lufthansa CityLine     Transfer in Munich 3h 45m",2025-08-03 08:30:00,2025-08-03 15:00:00,MXP T1,AMS,3h 45m in Munich,6h 30m,,Return,Checked baggage 23 kg,,$673,Multiple Airlines
+"Air France ,Air France      Transfer in Paris 1h",2025-08-03 12:00:00,2025-08-03 15:55:00,MXP T1,AMS,1h in Paris,3h 55m,,Return,,,$675,Multiple Airlines
+"Lufthansa Operated by Air Dolomiti,Lufthansa      Transfer in Frankfurt 1h 35m",2025-08-03 06:30:00,2025-08-03 10:35:00,MXP T1,AMS,1h 35m in Frankfurt,4h 5m,,Return,Checked baggage 23 kg,,$685,Multiple Airlines
+"Lufthansa ,Lufthansa      Transfer in Frankfurt 1h 10m",2025-08-03 07:00:00,2025-08-03 10:35:00,LIN,AMS,1h 10m in Frankfurt,3h 35m,,Return,Checked baggage 23 kg,,$691,Multiple Airlines
+"Lufthansa Operated by Air Dolomiti,Lufthansa      Transfer in Frankfurt 1h 30m",2025-08-03 18:15:00,2025-08-03 22:10:00,LIN,AMS,1h 30m in Frankfurt,3h 55m,,Return,Checked baggage 23 kg,,$691,Multiple Airlines
+"Air France ,Air France      Transfer in Paris 55m",2025-08-03 09:45:00,2025-08-03 13:40:00,LIN,AMS,55m in Paris,3h 55m,,Return,,,$758,Multiple Airlines
+"Air France ,Air France      Transfer in Paris 1h 25m",2025-08-03 14:55:00,2025-08-03 19:15:00,LIN,AMS,1h 25m in Paris,4h 20m,,Return,,,$758,Multiple Airlines
+"Swiss Operated by Helvetic Airways,Swiss      Transfer in Zurich 5h 30m",2025-08-03 05:50:00,2025-08-03 14:10:00,MXP T1,AMS,5h 30m in Zurich,8h 20m,,Return,Checked baggage 23 kg,,$778,Multiple Airlines
+"Scandinavian Airlines Operated by Sas Link,Scandinavian Airlines Operated by Cityjet     Transfer in Copenhagen 2h 15m",2025-08-03 11:15:00,2025-08-03 17:00:00,MXP T1,AMS,2h 15m in Copenhagen,5h 45m,,Return,Checked baggage 23 kg,,$780,Multiple Airlines
+"Scandinavian Airlines Operated by Jettime A/S,Scandinavian Airlines Operated by Sas Link     Transfer in Copenhagen 40m",2025-08-03 15:30:00,2025-08-03 19:35:00,MXP T1,AMS,40m in Copenhagen,4h 5m,,Return,,,$934,Multiple Airlines
+"Scandinavian Airlines Operated by Sas Link,Scandinavian Airlines Operated by Sas Link     Transfer in Copenhagen 4h 50m",2025-08-03 11:15:00,2025-08-03 19:35:00,MXP T1,AMS,4h 50m in Copenhagen,8h 20m,,Return,,,$970,Multiple Airlines
+"American Airlines ,American Airlines      Transfer in Dallas 3h",2025-09-13 10:55:00,2025-09-13 18:03:00,AMS,SAN T2,3h in Dallas,16h 8m,,Return,,,$997,Multiple Airlines
+"American Airlines ,American Airlines      Transfer in Dallas 5h 9m",2025-09-13 10:55:00,2025-09-13 20:16:00,AMS,SAN T2,5h 9m in Dallas,18h 21m,,Return,,,$997,Multiple Airlines
+"American Airlines ,American Airlines      Transfer in Philadelphia 6h 47m",2025-09-13 10:00:00,2025-09-13 21:43:00,AMS,SAN T2,6h 47m in Philadelphia,20h 43m,,Return,,,$997,Multiple Airlines
+"American Airlines ,American Airlines      Transfer in Dallas 7h 25m",2025-09-13 10:55:00,2025-09-13 22:38:00,AMS,SAN T2,7h 25m in Dallas,20h 43m,,Return,,,$997,Multiple Airlines
+"American Airlines ,American Airlines      Transfer in Dallas 8h 30m",2025-09-13 10:55:00,2025-09-13 23:32:00,AMS,SAN T2,8h 30m in Dallas,21h 37m,,Return,,,$997,Multiple Airlines
+"American Airlines ,American Airlines      Transfer in Dallas 17h 12m",2025-09-13 10:55:00,2025-09-14 08:20:00,AMS,SAN T2,17h 12m in Dallas,30h 25m,+1,Return,,,$997,Multiple Airlines
+"American Airlines ,American Airlines      Transfer in Dallas 18h 53m",2025-09-13 10:55:00,2025-09-14 09:59:00,AMS,SAN T2,18h 53m in Dallas,32h 4m,+1,Return,,,$997,Multiple Airlines
+"American Airlines ,American Airlines      Transfer in Dallas 21h 2m",2025-09-13 10:55:00,2025-09-14 12:04:00,AMS,SAN T2,21h 2m in Dallas,34h 9m,+1,Return,,,$997,Multiple Airlines
+"British Airways ,British Airways      Transfer in London 15h 50m",2025-09-13 19:25:00,2025-09-14 14:50:00,AMS,SAN T2,15h 50m in London,28h 25m,+1,Return,,,$1107,Multiple Airlines
+KLM Royal Dutch Airlines,2025-09-13 20:50:00,2025-09-14 15:30:00,AMS,SIN T1,Direct,12h 40m,+1,Return,,,$1374,Singular Airline
+Singapore Airlines,2025-09-13 11:00:00,2025-09-14 05:45:00,AMS,SIN,Direct,12h 45m,+1,Return,,,$2168,Singular Airline
+"Air India ,Air India      Transfer in New Delhi 2h 40m",2025-09-13 20:35:00,2025-09-14 19:30:00,AMS,SIN T2,2h 40m in New Delhi,16h 55m,+1,Return,,,$875,Multiple Airlines
+"Air India ,Air India      Transfer in New Delhi 4h 40m",2025-09-13 20:35:00,2025-09-14 21:45:00,AMS,SIN T2,4h 40m in New Delhi,19h 10m,+1,Return,,,$875,Multiple Airlines
+"Air India ,Air India      Transfer in New Delhi 15h",2025-09-13 20:35:00,2025-09-15 07:30:00,AMS,SIN T2,15h in New Delhi,28h 55m,+2,Return,,,$875,Multiple Airlines
+"Etihad Airways ,Etihad Airways      Transfer in Abu Dhabi 15h 25m",2025-09-13 22:00:00,2025-09-15 09:40:00,AMS,SIN T2,15h 25m in Abu Dhabi,29h 40m,+2,Return,,,$969,Multiple Airlines
+"Lufthansa ,Lufthansa      Transfer in Frankfurt 1h 20m",2025-09-13 19:25:00,2025-09-14 16:25:00,AMS,SIN T2,1h 20m in Frankfurt,15h,+1,Return,,<5 left,$1139,Multiple Airlines
+"Lufthansa ,Lufthansa      Transfer in Frankfurt 2h 15m",2025-09-13 18:30:00,2025-09-14 16:25:00,AMS,SIN T2,2h 15m in Frankfurt,15h 55m,+1,Return,,<5 left,$1139,Multiple Airlines
+"Xiamen Airlines ,Xiamen Airlines      Transfer in Xiamen 3h 40m",2025-09-13 21:30:00,2025-09-14 22:15:00,AMS,SIN T1,3h 40m in Xiamen,18h 45m,+1,Return,,<5 left,$1403,Multiple Airlines
+"China Eastern Airlines ,China Eastern Airlines      Transfer in Shanghai 20h 55m",2025-09-13 20:15:00,2025-09-15 15:35:00,AMS,SIN T3,20h 55m in Shanghai,37h 20m,+2,Return,,,$1458,Multiple Airlines
+"Emirates ,Emirates      Transfer in Dubai 1h",2025-09-13 11:25:00,2025-09-14 08:35:00,AMS,SIN T1,1h in Dubai,15h 10m,+1,Return,,,$1521,Multiple Airlines
+"Emirates ,Emirates      Transfer in Dubai 3h 35m",2025-09-13 21:50:00,2025-09-14 21:45:00,AMS,SIN T1,3h 35m in Dubai,17h 55m,+1,Return,,,$1521,Multiple Airlines
+"Garuda Indonesia ,Garuda Indonesia      Transfer in Jakarta 1h",2025-09-13 12:05:00,2025-09-14 11:40:00,AMS,SIN T3,1h in Jakarta,17h 35m,+1,Return,,<5 left,$1536,Multiple Airlines
+"Garuda Indonesia ,Garuda Indonesia      Transfer in Jakarta 3h 55m",2025-09-13 12:05:00,2025-09-14 14:35:00,AMS,SIN T3,3h 55m in Jakarta,20h 30m,+1,Return,,<5 left,$1536,Multiple Airlines
+"Cathay Pacific ,Cathay Pacific      Transfer in Hong Kong 1h 50m",2025-09-13 12:15:00,2025-09-14 11:45:00,AMS,SIN T4,1h 50m in Hong Kong,17h 30m,+1,Return,,,$1573,Multiple Airlines
+"EVA Air ,EVA Air     Stop in Bangkok 1h 20m Transfer in Taipei 11h 35m",2025-09-13 21:40:00,2025-09-15 12:00:00,AMS,SIN T3,"2 stops in Bangkok, Taipei",32h 20m,+2,Return,,,$1820,Multiple Airlines
